@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PuneetAlwani
 - 👀 I’m interested in Web Front End Development
 - 🌱 I’m currently learning HTML CSS
-- 📫 Reach me to 8769611262 
+- 📫 Reach me to alwanipuneet25@gmail.com
 
 <!---
 PuneetAlwani/PuneetAlwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
