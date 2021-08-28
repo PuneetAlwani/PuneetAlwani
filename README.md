@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PuneetAlwani
-- 👀 I’m interested in Web Front End Development
+-    I have been trained in web development.
+- 👀 I’m interested in Power BI
 - 🌱 I’m currently learning HTML CSS
 - 📫 Reach me to alwanipuneet25@gmail.com
 
