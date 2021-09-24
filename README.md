@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PuneetAlwani
 -    I have been trained in web development.
 - 👀 I’m interested in Power BI
-- 🌱 I’m currently learning HTML CSS
+- 🌱 I’m currently learning NodeJS
 - 📫 Reach me to alwanipuneet25@gmail.com
 
 <!---
