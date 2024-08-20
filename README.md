@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PuneetAlwani
--    I have been trained in web development.
-- 👀 I’m interested in Power BI
-- 🌱 I’m currently learning NodeJS
+- 🙌 I have a expierience of 2 years as a Full Stack Developer.
+- 👀 I’m interested in learning New Technologioes
 - 📫 Reach me to alwanipuneet25@gmail.com
 
 <!---
